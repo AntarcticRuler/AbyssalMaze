@@ -1,0 +1,2 @@
+# Abyssal Maze (LD45)
+Because of schoolwork, I only had about 10-12 hours to make this game, where as most people have 24-36. Given that, I'm actually quite proud with my first Ludum Dare submission, and hopefully I can do better next time!
